@@ -24,7 +24,7 @@ export default function Register(props) {
   const showModal = () => {
     MySwal.fire({
       title: "Confirm with your selection?",
-      html: `<p>Movie Name : ${getName}</p>
+      html: `<p>Movie name : ${getName}</p>
               <p> Ticket price : ${price} </p>
               <p> Showtime : ${show}</p>
               <p> Seats : ${seat}</p>`,
