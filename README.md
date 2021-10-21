@@ -12,6 +12,8 @@
 <img src="thumb.png" >
 <img src="thumb2.png" >
 
+Demo link - https://npmovieinfo.netlify.app/
+
 ## Install
 
 ```sh
