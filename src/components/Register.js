@@ -1,8 +1,7 @@
 import React, { useState } from "react";
 import { useLocation } from "react-router";
-import Cards from "./Cards";
+import Swal from "sweetalert2";
 import withReactContent from "sweetalert2-react-content";
-import $ from "jquery";
 
 const MySwal = withReactContent(Swal);
 export default function Register(props) {
