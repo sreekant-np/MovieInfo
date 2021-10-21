@@ -32,8 +32,8 @@ npm run test
 
 👤 **Shreekant**
 
-* Github: [@sreekant-np](https://github.com/sreekant-np)
-* LinkedIn: [@sreekant-np](https://linkedin.com/in/sreekant-np)
+- Github: [@sreekant-np](https://github.com/sreekant-np)
+- LinkedIn: [@sreekant-np](https://linkedin.com/in/sreekant-np)
 
 ## Show your support
 
