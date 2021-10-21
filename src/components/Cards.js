@@ -17,7 +17,7 @@ const Cards = ({ name, img, id, index, genres, runtime, summary }) => {
         <p className="genre mb-s">{genres}</p>
         <button className="summary">
           <Link to={`/Summary/${id}`} className="link">
-            {" "}
+            {"   "}
             More Details{" "}
           </Link>
         </button>
